@@ -32,6 +32,7 @@
         android:baselineAligned="true"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
+        android:background="#0053f3f2"
         >
 
         <com.android.deskclock.AndroidClockTextView
